@@ -36,7 +36,7 @@ export default function Navbar() {
           onClick={() => scrollTo("home")}
           className="text-2xl font-black cursor-pointer gradient-text"
         >
-          NA.
+          MN.
         </div>
 
         <ul className="hidden md:flex gap-8">
